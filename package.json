@@ -1,0 +1,19 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "This is for practice only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeep2code/node-practice.git"
+  },
+  "author": "Kuldeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuldeep2code/node-practice/issues"
+  },
+  "homepage": "https://github.com/kuldeep2code/node-practice#readme"
+}
